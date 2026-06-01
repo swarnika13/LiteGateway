@@ -1,8 +1,8 @@
-# LiteLLM Platform
+# LiteGateway
 
 ## Overview
 
-LiteLLM Platform is an AI Gateway and LLM Management System that provides a unified interface for interacting with multiple Large Language Models through a single API.
+LiteGateway is an AI Gateway and LLM Management System that provides a unified interface for interacting with multiple Large Language Models through a single API.
 
 This project leverages LiteLLM to simplify model integration, routing, monitoring, and management across multiple AI providers while maintaining OpenAI-compatible APIs.
 
@@ -68,7 +68,7 @@ docs/         → Documentation
 
 ## My Contributions
 
-* Configured and deployed the LiteLLM platform
+* Configured and deployed the LiteGateway
 * Explored multi-provider LLM integration
 * Tested gateway routing and API workflows
 * Studied model management architecture
@@ -92,7 +92,7 @@ docs/         → Documentation
 ## Installation
 
 ```bash
-git clone https://github.com/swarnika13/LiteLLM-Platform.git
+git clone https://github.com/swarnika13/LiteGateway.git
 cd LiteLLM-Platform
 ```
 
